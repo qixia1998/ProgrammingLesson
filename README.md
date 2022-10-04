@@ -1,2 +1,2 @@
-# C_Programming
-Learning C Programming
+# ProgrammingLesson
+Learning Programming
